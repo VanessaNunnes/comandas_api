@@ -1,3 +1,4 @@
+# Vanessa Furtado Nunes
 from infra import database
 from sqlalchemy import Column, VARCHAR, Integer, DECIMAL, BLOB
 
